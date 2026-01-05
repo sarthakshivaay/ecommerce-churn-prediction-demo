@@ -13,19 +13,19 @@ End‑to‑end machine learning system to predict customer churn risk for e‑co
 
 ### 🔮 Predict Churn – Input Form
 
-![Predict Churn Page](screenshots/predict_page.jpg)
+![Predict Churn Page](screenshots/predict_page.png)
 
 *Quick‑start presets (Average Customer, High Risk, Loyal Customer) and business‑friendly input form.*
 
 ### 📊 Feature Importance – Model Explainability
 
-![Feature Importance Page](screenshots/feature_importance.jpg)
+![Feature Importance Page](screenshots/feature_importance.png)
 
 *Top features by importance with business descriptions to explain what drives churn.*
 
 ### 🎯 Prediction Result – Risk & Actions
 
-![Prediction Result Page](screenshots/prediction_result.jpg)
+![Prediction Result Page](screenshots/prediction_result.png)
 
 *Churn probability with clear risk label and concrete retention recommendations.*
 
@@ -118,9 +118,9 @@ ecommerce-churn-prediction/
 │   └── model.py                  # Model training & persistence
 │
 ├── screenshots/                  # App screenshots for docs
-│   ├── predict_page.jpg
-│   ├── prediction_result.jpg
-│   └── feature_importance.jpg
+│   ├── predict_page.png
+│   ├── prediction_result.png
+│   └── feature_importance.png
 │
 ├── streamlit_app.py              # Main dashboard application
 ├── test_app.py                   # Minimal app for testing
